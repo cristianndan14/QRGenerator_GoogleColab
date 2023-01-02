@@ -1,4 +1,4 @@
-# QRGenerator_GoogleColab
+# Instrucciones
 
 - Descargar fichero, extraer y subir a la cuenta de Drive, en la raíz.
 - Abrir el archivo ejecutable con Google Colab.
